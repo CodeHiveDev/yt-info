@@ -3,7 +3,7 @@
   "version": "3.0.0",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/dzek69/yt-info.git"
+    "url": "git+ssh://git@github.com/CodeHiveDev/yt-info.git"
   },
   "author": "Jacek Nowacki",
   "license": "MIT",
@@ -68,10 +68,11 @@
   },
   "description": "Private-use library. Fetches movie information from youtube website. Does not use API.",
   "bugs": {
-    "url": "https://github.com/dzek69/yt-info/issues"
+    "url": "https://github.com/CodeHiveDev/yt-info/issues"
   },
-  "homepage": "https://github.com/dzek69/yt-info#readme",
+  "homepage": "https://github.com/CodeHiveDev/yt-info#readme",
   "directories": {
+    "doc": "docs",
     "test": "test"
   }
 }
