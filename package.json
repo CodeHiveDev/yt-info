@@ -1,10 +1,7 @@
 {
   "name": "@codehive/yt-info",
-  "version": "3.0.2",
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/CodeHiveDev/yt-info.git"
-  },
+  "version": "3.0.3",
+  "repository": "git@github.com/CodeHiveDev/yt-info.git",
   "author": "Jacek Nowacki",
   "license": "MIT",
   "scripts": {
@@ -65,14 +62,5 @@
     "language": "typescript",
     "fixDefaultForCommonJS": true,
     "jsx": false
-  },
-  "description": "Private-use library. Fetches movie information from youtube website. Does not use API.",
-  "bugs": {
-    "url": "https://github.com/CodeHiveDev/yt-info/issues"
-  },
-  "homepage": "https://github.com/CodeHiveDev/yt-info#readme",
-  "directories": {
-    "doc": "docs",
-    "test": "test"
   }
 }
